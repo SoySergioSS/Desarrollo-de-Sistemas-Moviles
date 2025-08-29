@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Linea 1</string>
+    <string name="description">metro de Lima</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="cardholder">Titular</string>
+    <string name="type">Tipo de tarjeta</string>
+    <string name="balance">Saldo</string>
+    <string name="last_trip">Último viaje</string>
+    <string name="starting_station">Estación inicial</string>
+    <string name="final_station">Estación final</string>
+    <string name="date_and_time">Fecha y hora</string>
+    <string name="top_up">Recargar</string>
+</resources>
